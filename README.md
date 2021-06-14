@@ -27,7 +27,7 @@ You will be implementing 6 methods in the `Itinerary` class:
 - `getTotalNumberOfDays()`
 - `getNumberOfDestinations()`
 
-The `Itinerary` class is located in the `com.amazon.ata.lists.prework`
+The `Itinerary` class is located in the `com.amazon.ata.lists`
 package. Follow the existing Javadoc in the class and implement the
 methods based on the behavior specified by the Javadoc.
 
@@ -37,7 +37,7 @@ locations.
 #### Testing
 
 The tests for the `Itinerary` class have been added to the
-`com.amazon.ata.lists.prework.ItineraryTest` class. As you implement the
+`com.amazon.ata.lists.ItineraryTest` class. As you implement the
 methods of the `Itinerary` class you should verify that the tests change
 from failing to passing before moving on to the next method
 implementation.
