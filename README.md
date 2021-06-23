@@ -1,9 +1,6 @@
 ### Lists Pre-work
 
-**Branch name:** lists-prework
-
-**RDE workflows:**
-- `lists-prework`
+**GitHub repo:** [ebd-lists-itinerary](https://github.com/LambdaSchool/ebd-lists-itinerary)
 
 Expected time burden: 20 min
 
@@ -45,10 +42,8 @@ implementation.
 You can run the tests in IntelliJ by clicking the play button left of
 `public class ItineraryTest` near the top of the file or by clicking the
 play button left of the individual method to test. If you prefer to run
-tests in your terminal, use the command `rde workflow run
-lists-prework`.
+tests in your terminal, use the command `./gradlew -q clean :test`
 
 **You have completed this pre-work when:**
 * You have implemented the 6 methods in class `Itinerary`
 * All tests in class `ItineraryTest` are passing
-* Workflow `lists-prework` succeeds
