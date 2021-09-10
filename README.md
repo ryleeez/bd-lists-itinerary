@@ -2,8 +2,6 @@
 
 **GitHub repo:** [ebd-lists-itinerary](https://github.com/LambdaSchool/ebd-lists-itinerary)
 
-Expected time burden: 20 min
-
 ### Context
 
 Typically, when we take a multi-city trip we need a travel itinerary. In
