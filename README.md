@@ -1,7 +1,3 @@
-### Lists Pre-work
-
-**GitHub repo:** [ebd-lists-itinerary](https://github.com/LambdaSchool/ebd-lists-itinerary)
-
 ### Context
 
 Typically, when we take a multi-city trip we need a travel itinerary. In
