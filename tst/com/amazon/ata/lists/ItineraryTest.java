@@ -53,7 +53,6 @@ public class ItineraryTest {
         Assertions.assertEquals("New York", itinerary.getDestination(1).getLocation());
         Assertions.assertEquals(2, itinerary.getDestination(1).getDaysAtLocation());
     }
-
     @Test
     public void removeDestination_fromMultiDestinationItinerary_matchingDestinationNoLongerPresent() {
         // GIVEN
@@ -138,4 +137,6 @@ public class ItineraryTest {
         // THEN
         Assertions.assertEquals(0, totalNumberOfDays);
     }
+
+
 }
